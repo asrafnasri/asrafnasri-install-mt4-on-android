@@ -1,0 +1,101 @@
+hello for install metatrader on raspberry pi you need to install x86 os
+
+for raspberry pi developper provide 2 x86 enviroment what i know
+
+first android and one more windows 10/11
+
+so if you wanna install mete trader on raspberry pi you need to choose what os you want to use
+
+for your information if you wanna run x86 enviromant you need to use ssd cause x86 enviromant is verry slow
+
+ok let i tell you about this tow os
+
+android
+what i like when i using android to running mt4 is its running good but
+when i want to open mete editor if i want to use caps i need to hold my caps lock button
+
+windows
+what i like with when i using windows is i can use all off windows software not like android
+android just can run .exe program only
+but windows can rul all of that
+what i didt like when i using windows is i can connect wifi
+
+so 2 of that os can run metatrader but
+tow of that still have problems that you need to make dissiction what os you want to use
+
+so now how to install metatrader on that software?
+
+ok now i will tell you how
+android
+
+install android 11(konstakang) on your raspberry pi
+but batter you use android 9 cause much bater performance
+dont use android 12,13,14
+
+after you install android you need to root your android on raspberry pi
+cause mt4 need root access for batter perfomance
+for rooting you can use magisk
+
+after you done rooting your android first off all i want you all install t-ui launcher
+cause i want you fell like you didnt use android
+you can set t-ui launcher for default launcher
+
+then after you done all of that you can install one app call robot forex android
+sorry cause i didnt update that app, i didnt have time,
+
+
+so after you install that app you can open and learn how to install meta trader on android
+
+
+additional info
+if you flash raw image and you fail to boot it up please check back you config.txt
+close sdcard and enable usd for booting
+
+
+windows
+
+have many tutorialhow to install windows on android but what i want to hilight is
+please overclock
+
+initial_turbo=60
+over_voltage=15
+arm_freq_min=100
+arm_freq=2350
+gpu_freq=800
+gpu_mem=512
+disable_overscan=1
+arm_boost=1
+dtoverlay=vc4-kms-v3d
+max_framebuffers=2
+display_auto_detect=1
+dtparam=audio=on
+
+copy all of this and paste under default settings
+
+please be patient i know you all is linux user so be patient its normal windows slow
+
+after done installation you need to make windows smoof
+how?
+sorry tutorial in youtube
+have 3 part you need to check for make it smooft
+
+then after you make it smooft you can active your windows for batter experian...
+you need to activate your windows you need...
+how to activate?
+
+i have make that repository
+
+then you can install mt4 on that
+
+
+done...
+thank you...
+nice for helping you all..
+anyway, please share to me
+best ea mt5/mt4
+decompile file .ex4/.ex5
+or just buy me a cup of copy
+
+wallet
+0x546a88C465b99A4F20B16a2Db8e2F984716b3B7e
+
